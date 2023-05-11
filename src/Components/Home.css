@@ -1,0 +1,17 @@
+.main{
+    background-color: black;
+    box-shadow: #9f03f3f4 0px 5px 15px;
+    
+    
+
+}
+ .container-fluid{
+    background-color: black;
+    height: 100vh;
+} 
+.navbar{
+    background-color: black;
+}
+.heading{
+    color:  #9f03f3f4 ;
+}
